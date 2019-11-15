@@ -1,0 +1,21 @@
+.sbux-sel-chk-btn {
+	padding: 4px 4px 4px 5px;
+	background : none
+}
+
+/*select.sbux-sel {background:none;}*/
+
+select[disabled].sbux-sel,select.disabled.sbux-sel,select[readonly].sbux-sel,select.readonly.sbux-sel {background: #efefef}
+.sbux-sel option:checked, .sbux-sel option:active {
+    color: #000 !important;
+    background: none;}
+
+.sbux-inp-btn-group .sbux-inp-fr-span > button.glyphicon span, .sbux-inp-btn-group .sbux-inp-bk-span > button.glyphicon span {
+	vertical-align: middle;
+}
+
+/* 2019-03-08 ahn */
+ul.sbux-tre-bd li.sbux-tre-item-chl-wrap ul.sbux-tre-item-chl-chl:before {
+	top: -9px !important;
+	height: 100% !important;
+}
