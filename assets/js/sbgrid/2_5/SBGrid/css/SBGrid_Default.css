@@ -420,7 +420,8 @@
 	font-size: 13px !important;			/*그리드 전체의 폰트 크기*/
 	color: #000000;						/*그리드 전체의 폰트 색*/
 	/* background-image:url(../img/grid/SBGridLogo.png) !important; *//*그리드 배경 로고*/
-	background-image:url(/static/saledaily/images/nodata.png) !important; /* 추가된 부분*/
+/* 	background-image:url(/static/saledaily/images/nodata.png) !important; 추가된 부분 */
+	background-image:url(../img/grid/nodata.png) !important;
 	background-color:#FFFFFF !important;
 	background-position:center !important;
 	background-repeat:no-repeat !important;
