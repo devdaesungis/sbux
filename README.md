@@ -1,2 +1,0 @@
-# sbux
-sbux resource
